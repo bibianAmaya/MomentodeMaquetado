@@ -1,0 +1,110 @@
+/* Regals CSS
+selector{
+    propiedad:"valor";
+}
+*/
+/*@import url('https://fonts.googleapis.com/css2?family=REM:wght@400;700&display=swap');*/
+
+body{
+    width: 1024px;
+    height: 1024px;
+    margin: auto;
+    background: #E5E5E5;
+}
+header{
+    position: fixed;
+    width: 1024px;
+    height: 139px;
+    z-index: 5;
+}
+div{
+    background-color: #F3F3F3;
+    width: 300px;
+    height: 336px;
+    margin: 500px 10px 50px 20px;
+    display: inline-block;
+}
+
+.indice1{
+    font-family: Roboto;
+    font-size: 15px;
+    background: #1CD1B0;
+    padding: 10px 0px 0px 27px;
+    height: 28px;
+    margin: auto;
+}
+.indice2{
+    font-family: Roboto;
+    font-size: 40px;
+    background: #00669F;
+    padding: 20px 0px 20px 27px;
+    height: 61px;
+    margin: auto;   
+}
+main{
+    background: white;
+    height: 1000px;
+}
+.card{
+    height: 834px;
+}
+i{
+    color: red;
+    position: relative;
+    top: -177px;
+    left: 21px;
+    width: 30px;
+    height: 30px;
+}
+.FImg{ 
+    width: 300px;
+    height: 193px;
+    top: -192px;
+    position: relative;
+}
+.Img{
+    width: 120px;
+    height: 118px;
+    top: -285px;
+    left: 99px; 
+    position: relative;
+    border-radius: 50%;
+}
+article{
+    top: -320px; 
+    position: relative;
+}
+.subtitulo{
+    text-align: center;
+    font-family: Roboto;
+    font-size: 30px;
+}
+p.desc{
+    font-family: Roboto;
+    font-size: 16px;
+    width: 265px;
+    height: 113px;
+    padding-left: 18px;
+}
+.Secboton{
+    width: 127px;
+    height: 48px;
+    background: #00669F;
+    position: absolute;
+    left: 85px;
+    bottom: -80px;
+}
+.boton{
+
+    color: #F3F3F3;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 15px;
+}
+footer{
+    color: #FFF9F9;
+    font-family: Roboto;
+    font-size: 16px;
+    background: #00669F;
+    height: 51px;
+}
